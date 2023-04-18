@@ -1,1 +1,1 @@
-display content
+display two contents
