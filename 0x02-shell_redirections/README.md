@@ -1,1 +1,1 @@
-display 4-lastlines
+display first 5 lines
